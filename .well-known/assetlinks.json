@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.footballteamgame",
+      "sha256_cert_fingerprints": [
+        "E6:84:26:76:E1:A3:51:C5:E9:B1:82:E6:51:09:93:7A:37:3F:31:A6:7A:A8:0E:21:0C:51:AD:45:52:85:A9:BE"
+      ]
+    }
+  }
+]
